@@ -1,1 +1,2 @@
-
+print hello
+printc 5 m
